@@ -1,0 +1,17 @@
+{
+    "pravinmarathe123@gmail.com": {
+        "name": "Pravin Marathe",
+        "phn": "1234567890",
+        "email": "pravinmarathe123@gmail.com",
+        "address": "New york, Khupskheda",
+        "password": "Pravin#23",
+        "orders": [
+            {
+                "02/07/2024, 09:25:19": [
+                    "1",
+                    "3"
+                ]
+            }
+        ]
+    }
+}
